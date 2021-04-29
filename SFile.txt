@@ -12,4 +12,7 @@ This file updated by prasad
 Here Started creating Branches to distinguish Environments
 
 Testing for stashing
+<<<<<<< HEAD
 
+=======
+>>>>>>> c6ab6c8 (Latest changes after stash)
